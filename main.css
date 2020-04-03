@@ -18,7 +18,7 @@ background-color:#007bff!important
 }
 
 .header{
- background-image: url('Bg.png');
+ background-image: url(Bg.png);
  background-attachment: fixed;
  background-size: cover;
  background-position: center;
