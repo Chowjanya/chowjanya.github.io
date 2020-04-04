@@ -7,7 +7,7 @@ html,h1,h2,h3,h4,h5,h6,a{
 
 /*
 .navbar{ background:#F97300;}  72921A*/
-.navbar{ background:#F97300;} 
+.navbar{ background:#72921A;}
 
 .nav-link , .navbar-brand{ color: #f4f4f4; cursor: pointer;}
 
@@ -50,7 +50,7 @@ background-color:#007bff!important
 
 }
 .description h1{
- color:#F97300 ;
+ color:#72921A ;
 }
 .description p{
  color:#666;
@@ -59,8 +59,8 @@ background-color:#007bff!important
  line-height: 1.5;
 }
 .description button{
- border:1px  solid #F97300;
- background:#F97300;
+ border:1px  solid #72921A;
+ background:#72921A;
  color:#fff;
 }
 
@@ -70,7 +70,7 @@ background-color:#007bff!important
  position: relative;
 }
 .about h1{
- color:#F97300;
+ color:#72921A;
  margin: 2em;
 }
 .about img{
@@ -101,7 +101,7 @@ background-color:#007bff!important
     position: relative;
 }
 .portfolio h1{
- color:#F97300;
+ color:#72921A;
  margin: 2em;
 }
 .portfolio img{
@@ -116,7 +116,7 @@ background-color:#007bff!important
  position: relative;
 }
 .blog h1{
- color:#F97300;
+ color:#72921A;
  margin: 2em;
 }
 .blog .card{
@@ -127,7 +127,7 @@ background-color:#007bff!important
  height: 12em;
 }
 .blog .card-title{
- color:#F97300;
+ color:#72921A;
 
 }
 .blog .card-body{
@@ -141,13 +141,13 @@ background-color:#007bff!important
 
 .contact-form h1{
  padding:2em 1px;
- color: #F97300;
+ color: #72921A;
 }
 .contact-form .right{
  max-width: 600px;
 }
 .contact-form .right .btn-secondary{
- background:  #F97300;
+ background:  #72921A;
  color: #fff;
  border:0;
 }
