@@ -7,7 +7,7 @@ html,h1,h2,h3,h4,h5,h6,a{
 
 /*
 .navbar{ background:#F97300;}  72921A*/
-.navbar{ background:#72921A;}
+.navbar{ background:#10828C;}
 
 .nav-link , .navbar-brand{ color: #f4f4f4; cursor: pointer;}
 
@@ -50,7 +50,7 @@ background-color:#007bff!important
 
 }
 .description h1{
- color:#72921A ;
+ color:#10828C ;
 }
 .description p{
  color:#666;
