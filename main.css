@@ -74,6 +74,7 @@ background-color:#007bff!important
  margin: 2em;
 }
 .about img{
+  padding: 3em;
  height: 100%;
     width: 100%;
     border-radius: 50%
@@ -82,10 +83,11 @@ background-color:#007bff!important
  display: block;
  color: #888;
  position: absolute;
- left: 115px;
+ left: 155px;
+ font-size: 20px;
 }
 .about .desc{
- padding: 2em;
+ padding: 3em;
  border-left:4px solid #10828C;
 }
 .about .desc h3{
